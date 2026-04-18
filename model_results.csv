@@ -1,0 +1,7 @@
+Model,R2_Score,RMSE_USD,MAE_USD
+Lasso Regression,0.9529,16163,13023
+Linear Regression,0.9528,16169,13052
+Ridge Regression,0.9517,16358,13144
+Gradient Boosting,0.946,17299,13792
+Random Forest,0.922,20793,16617
+Decision Tree,0.8656,27293,21189
