@@ -117,4 +117,3 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ---
 
-*Made for Synent Data Science Internship — Task 8 | Advanced ML Project*
